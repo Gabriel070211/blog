@@ -1,0 +1,10 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.img {
+    max-width: 70%;
+    max-height: 70%;
+    margin: 50px;
+}
